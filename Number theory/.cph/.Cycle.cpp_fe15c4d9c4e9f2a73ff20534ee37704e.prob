@@ -1,0 +1,1 @@
+{"name":"Local: Cycle","url":"c:\\Users\\user\\Desktop\\Competitive Programming\\Number theory\\Cycle.cpp","tests":[{"id":1721765589261,"input":"8 6\n1 2\n2 3\n2 4\n3 5\n6 7\n1 5","output":"YES"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\user\\Desktop\\Competitive Programming\\Number theory\\Cycle.cpp","group":"local","local":true}
